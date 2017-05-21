@@ -28,7 +28,7 @@ $ chmod +x ssh_add.sh
 + Enjoy!
 
 
-@TODO:2017-05-20:eRocha:Will add some fancy bash magic commands to make this automatic on one liner.
+@TODO:2017-05-20:eRocha:Will add some fancy bash magic commands to make installation automatic on one liner.
 
 Via GIT
 
