@@ -4,7 +4,7 @@ SSH automatic identity ssh keys
 
 ## Description
 
-Scripts for adding automatically adding identity ssh keys on your system boot, for this will be using expect -> [Expect](https://linux.die.net/man/1/expect)
+Scripts for adding automatically adding identity ssh keys on your system boot, for this we will be using expect -> [Expect](https://linux.die.net/man/1/expect)
 
 So make sure you install that first on your distro before installing.
 
