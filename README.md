@@ -24,7 +24,7 @@ Manual
 $ chmod +x ssh_add.sh
 ```
 + Merge .bashrc to your own bashrc or .bash_profile as it corresponds to your distro.
-+ Customize password and path info on ssh_add.sh:
++ Customize password and path info on ssh_add.sh
 + Enjoy!
 
 
